@@ -2,7 +2,7 @@
 
 A modular command-line cybersecurity toolkit built in Python.
 
-[![PyPI version](https://badge.fury.io/py/cybertoolkit-harmeet.svg)](https://pypi.org/project/cybertoolkit-harmeet/)
+[![PyPI version](https://badge.fury.io/py/cyber-easy.svg)](https://pypi.org/project/cyber-easy/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 
