@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cyber-easy"
+version = "1.0.0"
+description = "A modular CLI cybersecurity toolkit — password analysis, hashing, cipher, and port scanning"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Harmeet Singh Kalha", email = "harmeet.singh.kalha@gmail.com" }
+]
+keywords = ["cybersecurity", "cli", "toolkit", "hashing", "port-scanner"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Security"
+]
+requires-python = ">=3.8"
+
+[project.scripts]
+cyber-easy = "cyber_easy.main:main"

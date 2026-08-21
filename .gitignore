@@ -1,0 +1,23 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Build output
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Environment variables
+.env
+
+# VSCode
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
